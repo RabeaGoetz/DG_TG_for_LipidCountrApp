@@ -1,10 +1,7 @@
-#test bliblablub   
-
-
  library(shiny)
  library(dplyr)
                 
-                ui <- fluidPage(
+                  ui <- fluidPage(
                   titlePanel("Reformat DAG or TAG LipidView txt files to use in ShinyLipidCountr"),
                   
                   sidebarLayout(
