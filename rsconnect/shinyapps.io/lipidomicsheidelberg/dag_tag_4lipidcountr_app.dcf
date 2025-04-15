@@ -1,0 +1,10 @@
+name: dag_tag_4lipidcountr_app
+title:
+username: lipidomicsheidelberg
+account: lipidomicsheidelberg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14364937
+bundleId: 10018548
+url: https://lipidomicsheidelberg.shinyapps.io/dag_tag_4lipidcountr_app/
+version: 1
